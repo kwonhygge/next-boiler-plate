@@ -10,6 +10,7 @@ const fontFamily = `-apple-system,
 
 const fontSizes = {
     size16: '1.6rem',
+    size40: '4rem',
 };
 
 const theme = {
